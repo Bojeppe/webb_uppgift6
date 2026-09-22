@@ -1,4 +1,4 @@
-Här är min lösning till webbaplikation Upgift 6 - Lernia 
+Här är min lösning till webbaplikation Upgift 6  
 
 SKA "Skapa en webbapplikation där det finns en JavaScript-funktion som ändrar en text i en textinput till VERSALER/stora bokstäver och skriver ut det som ett resultat i console.log." 
 
